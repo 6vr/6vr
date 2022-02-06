@@ -7,3 +7,6 @@
 - 👯 you can find me on Instagram: @_asnq
 - 📫 How to reach me: anasnawaf23@gmail.com
 - ⚡ Fun fact i don't sleep.
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=6vr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
