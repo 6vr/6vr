@@ -10,12 +10,14 @@
 - 📫 How to reach me: anasnawaf23@gmail.com
 - ⚡ Fun fact i don't sleep.
 
-<img src="https://github-readme-stats.vercel.app/api?username=6vr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=6vr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=6vr&&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="6vr"
 
 ### Connect with me:
-
 [<img align="left" alt="of3ll | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="_asnq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/of3ll
 [instagram]: https://instagram.com/_asnq
+
