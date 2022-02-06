@@ -1,7 +1,8 @@
 # Hi there, I'm Anas 👋 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6vr&label=Profile%20views&color=1c1c1c&style=flat" alt="6vr" /> </p>
-<img src="https://github-profile-trophy.vercel.app/?username=6vr" alt="6vr" />
+<img src="https://github-profile-trophy.vercel.app/?username=6vr&theme=onedark&row=1&column=5" alt="6vr" />
+
 
 - 🔭 I’m currently working on: Backend in Django.
 - 🌱 I’m currently diving deeper into: Java, cyber security.
