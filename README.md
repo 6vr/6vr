@@ -4,9 +4,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=6vr&theme=onedark&row=1&column=5" alt="6vr" />
 
 
-- 🔭 I’m currently working on: Backend in Django.
-- 🌱 I’m currently diving deeper into: Java, cyber security.
-- 💬 Ask me about anything.
+- 🔭 I'm currently working on: Backend in Django.
+- 🌱 I'm currently diving deeper into: Java, Red team.
+- 💬 I'm a web developer, programmer and ethical hacker.
 - 😄 Can you challenge me? https://tryhackme.com/p/of2y
 - 📫 How to reach me: anasnawaf23@gmail.com
 - ⚡ Fun fact i don't sleep.
