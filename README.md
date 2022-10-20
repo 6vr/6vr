@@ -4,9 +4,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=6vr&theme=onedark&row=1&column=5" alt="6vr" />
 
 
-- 🔭 I'm currently working on: Backend in Django.
-- 🌱 I'm currently diving deeper into: Java, Red team.
-- 💬 I'm a web developer, programmer and ethical hacker.
+- 🔭 I am a penetration tester and developer, hardware.
+- 🌱 I'm currently diving deeper into: Backend in Django and binary exploitation, reverse engineering, electronic warfare, wifi wardriving.
+- 💬 My programming language skills: C, Python, java.
 - 😄 Can you challenge me? https://tryhackme.com/p/of2y
 - 📫 How to reach me: anasnawaf23@gmail.com
 - ⚡ Fun fact i don't sleep.
