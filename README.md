@@ -1,12 +1,12 @@
-# Hi there, I'm Anas 👋 
+# MEET THE MAKER 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6vr&label=Profile%20views&color=1c1c1c&style=flat" alt="6vr" /> </p>
 <img src="https://github-profile-trophy.vercel.app/?username=6vr&theme=onedark&row=1&column=5" alt="6vr" />
 
 
-- 🔭 I am a cyber security analyst with 3 years of experience, hardware hacker.
-- 🌱 I'm currently diving deeper into: soc analyst and DFIR binary exploitation, reverse engineering, electronic warfare, wifi wardriving.
-- 💬 My programming language skills: C/C++, Python, java.
+- 🔭 I am a cyber security analyst with 3 years of experience.
+- 🌱 I'm currently diving deeper into: SOC analyst and DFIR, Binary exploitation, Reverse engineering, Electronic WarFare, Wifi WarDriving.
+- 💬 My programming language skills: C/C++, PYTHON, JAVA.
 - 😄 Can you challenge me? https://tryhackme.com/p/of2y
 - 📫 How to reach me: anasnawaf23@gmail.com
 - ⚡ Fun fact i don't sleep.
