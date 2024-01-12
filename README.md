@@ -6,7 +6,7 @@
 
 - 🔭 I am a cyber security analyst with 3 years of experience, hardware hacker.
 - 🌱 I'm currently diving deeper into: soc analyst and DFIR binary exploitation, reverse engineering, electronic warfare, wifi wardriving.
-- 💬 My programming language skills: C, Python, java.
+- 💬 My programming language skills: C/C++, Python, java.
 - 😄 Can you challenge me? https://tryhackme.com/p/of2y
 - 📫 How to reach me: anasnawaf23@gmail.com
 - ⚡ Fun fact i don't sleep.
