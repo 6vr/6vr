@@ -4,8 +4,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=6vr&theme=onedark&row=1&column=5" alt="6vr" />
 
 
-- 🔭 I am a penetration tester and developer, hardware hacker.
-- 🌱 I'm currently diving deeper into: Backend in Django and binary exploitation, reverse engineering, electronic warfare, wifi wardriving.
+- 🔭 I am a cyber security analyst with 3 years of experience, hardware hacker.
+- 🌱 I'm currently diving deeper into: soc analyst and DFIR binary exploitation, reverse engineering, electronic warfare, wifi wardriving.
 - 💬 My programming language skills: C, Python, java.
 - 😄 Can you challenge me? https://tryhackme.com/p/of2y
 - 📫 How to reach me: anasnawaf23@gmail.com
@@ -15,9 +15,11 @@
 ### Connect with me:
 [<img align="left" alt="of3ll | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="_asnq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)" />][linkedin]
 
 [twitter]: https://twitter.com/of3ll
 [instagram]: https://instagram.com/_asnq
+[linkedin]: https://www.linkedin.com/in/anas-nawaf-751315292/
 
 <br />
 <br />
