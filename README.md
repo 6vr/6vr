@@ -9,7 +9,7 @@
 - 💬 My programming language skills: C/C++, PYTHON, JAVA.
 - 😄 Can you challenge me? https://tryhackme.com/p/of2y
 - 📫 How to reach me: anasnawaf23@gmail.com
-- ⚡ Fun fact i don't sleep.
+- ⚡ Fun fact: i don't sleep.
 
 
 ### Connect with me:
