@@ -7,9 +7,11 @@
 - 🔭 I am a cyber security analyst with 3 years of experience.
 - 🌱 I'm currently diving deeper into: SOC analyst and DFIR, Binary exploitation, Reverse engineering, Electronic WarFare, Wifi WarDriving.
 - 💬 My programming language skills: C/C++, PYTHON, JAVA.
-- 😄 Can you challenge me? https://tryhackme.com/p/of2y
 - 📫 How to reach me: anasnawaf23@gmail.com
 - ⚡ Fun fact: i don't sleep.
+- 😄 Can you challenge me?
+-  <img src="https://tryhackme-badges.s3.amazonaws.com/of2y.png" alt="Your Image Badge" />
+
 
 
 ### Connect with me:
