@@ -9,17 +9,16 @@
 - 💬 My programming language skills: C/C++, PYTHON, JAVA.
 - 📫 How to reach me: anasnawaf23@gmail.com
 - ⚡ Fun fact: i don't sleep.
-- 😄 Can you challenge me?
--  <img src="https://tryhackme-badges.s3.amazonaws.com/of2y.png" alt="Your Image Badge" />
+- 😄 Can you challenge me? https://tryhackme.com/p/an2s
 
 
 
 ### Connect with me:
 [<img align="left" alt="of3ll | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="_asnq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="fxop | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/of3ll
-[instagram]: https://instagram.com/_asnq
+[instagram]: https://instagram.com/fxop
 
 <br />
 <br />
