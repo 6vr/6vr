@@ -1,4 +1,7 @@
-# 🚀 MEET THE MAKER: 6vr
+<p align="center">
+  <h1 style="font-size: 60px; color:#FF00FF;"> MEET THE MAKER </h1>
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=6vr&label=Profile%20views&color=1c1c1c&style=flat" alt="6vr" /> </p>
 
