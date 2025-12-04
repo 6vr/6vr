@@ -1,8 +1,6 @@
 # 🚀 MEET THE MAKER: 6vr
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-0?style=for-the-badge&logo=eye&logoColor=white&color=FF00FF&labelColor=0A0A0A" alt="Profile Views" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=6vr&label=Profile%20views&color=1c1c1c&style=flat" alt="6vr" /> </p>
 
 
 ---
