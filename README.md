@@ -1,26 +1,43 @@
-# MEET THE MAKER 
+# 🚀 MEET THE MAKER: 6vr
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=6vr&label=Profile%20views&color=1c1c1c&style=flat" alt="6vr" /> </p>
-<img src="https://github-profile-trophy.vercel.app/?username=6vr&theme=onedark&row=1&column=5" alt="6vr" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=6vr&label=Profile%20views&color=1c1c1c&style=flat" alt="6vr" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=6vr&theme=onedark&row=1&column=5" alt="6vr" />
+</p>
 
-- 🔭 I am a cyber security analyst with 3 years of experience.
-- 🌱 I'm currently diving deeper into: SOC analyst and DFIR, Binary exploitation, Reverse engineering, Electronic WarFare, Wifi WarDriving.
-- 💬 My programming language skills: C/C++, PYTHON, JAVA.
-- 📫 How to reach me: anasnawaf23@gmail.com
-- ⚡ Fun fact: i don't sleep.
-- 😄 Can you challenge me? https://tryhackme.com/p/an2s
+---
 
+## 🔹 About Me
+- 🔭 Cybersecurity Analyst | 3 years experience  
+- 🌱 Currently diving into: **SOC, DFIR, Binary Exploitation, Reverse Engineering, Electronic Warfare, WiFi WarDriving**  
+- 💻 Programming Skills: **C/C++, Python, Java**  
+- 📫 Contact: [anasnawaf23@gmail.com](mailto:anasnawaf23@gmail.com)  
+- ⚡ Fun Fact: I **don't sleep** 🛌❌  
+- 😄 Challenge me: [TryHackMe Profile](https://tryhackme.com/p/an2s)  
 
+---
 
-### Connect with me:
-[<img align="left" alt="of3ll | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="fxop | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/of3ll">
+    <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://instagram.com/fxop">
+    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</p>
 
-[twitter]: https://twitter.com/of3ll
-[instagram]: https://instagram.com/fxop
+---
 
-<br />
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=6vr&show_icons=true&theme=radical&hide_border=true" alt="6vr" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=6vr&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="6vr" /></p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=6vr&show_icons=true&theme=radical&hide_border=true" alt="6vr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=6vr&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="6vr" />
+</p>
+
+---
+
+✨ **Tip:** You are more than your code. Keep hacking, keep learning.  
