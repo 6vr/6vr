@@ -34,19 +34,13 @@
 
 ---
 
-## 📊 GitHub Stats - Cyberpunk Edition
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/6vr">
     <img src="https://img.shields.io/github/followers/6vr?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=FF00FF&labelColor=0A0A0A" alt="Followers" />
   </a>
-  <a href="https://github.com/6vr?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/6vr?label=Repo%20Size&style=for-the-badge&logo=github&logoColor=white&color=00FFFF&labelColor=0A0A0A" alt="Repo Size" />
-  </a>
-  <a href="https://github.com/6vr?tab=repositories">
-    <img src="https://img.shields.io/github/languages/top/6vr?style=for-the-badge&logo=programming-language&logoColor=white&color=FF9900&labelColor=0A0A0A" alt="Top Languages" />
-  </a>
   <a href="https://github.com/6vr?tab=stars">
-    <img src="https://img.shields.io/github/stars/6vr?style=for-the-badge&logo=starship&logoColor=white&color=00FFAA&labelColor=0A0A0A" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/6vr?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=00FFAA&labelColor=0A0A0A" alt="Stars" />
   </a>
 </p>
 
