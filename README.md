@@ -1,20 +1,29 @@
+<h1 align="center" style="font-size: 60px; color:#FF00FF;">MEET THE MAKER</h1>
+
 <p align="center">
-  <h1 style="font-size: 60px; color:#FF00FF;"> MEET THE MAKER </h1>
+  <img src="https://komarev.com/ghpvc/?username=6vr&label=Profile%20views&color=1c1c1c&style=flat" alt="6vr" />
 </p>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=6vr&label=Profile%20views&color=1c1c1c&style=flat" alt="6vr" /> </p>
-
 
 ---
 
 ## 🔹 About Me
-- 🔭 Cybersecurity Analyst | 3 years experience  
-- 🌱 Currently diving into: **SOC, DFIR, Binary Exploitation, Reverse Engineering, Electronic Warfare, WiFi WarDriving**  
-- 💻 Programming Skills: **C/C++, Python, Java**  
-- 📫 Contact: [anasnawaf23@gmail.com](mailto:anasnawaf23@gmail.com)  
-- ⚡ Fun Fact: I **don't sleep** 🛌❌  
-- 😄 Challenge me: [TryHackMe Profile](https://tryhackme.com/p/an2s)  
+- 🔭 **Cybersecurity Analyst** | 3+ Years Experience  
+- 🌱 Exploring: **SOC, DFIR, Reverse Engineering, Binary Exploitation, EW, WiFi Wardriving**  
+- 💻 Coding in: **C/C++, Python, Java**  
+- 📫 Email: **anasnawaf23@gmail.com**  
+- ⚡ Fun Fact: **I genuinely do not sleep** 🛌❌  
+- 🎯 Challenge Me: [TryHackMe](https://tryhackme.com/p/an2s)
+
+---
+
+## 🔹 Skills
+| Skill                                         | Project                    |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation & Log Analysis            | Detection Lab              |
+| Security Automation (Shuffle SOAR)            | SOC Automation Lab         |
+| Incident Response & Playbooks                 | SOC Automation Lab         |
+| Malware Analysis & Reverse Engineering        | Malware Analysis Lab       |
+| Active Directory Security & Threat Hunting    | Active Directory Lab       |
 
 ---
 
@@ -31,21 +40,6 @@
   </a>
 </p>
 
-
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/6vr">
-    <img src="https://img.shields.io/github/followers/6vr?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=FF00FF&labelColor=0A0A0A" alt="Followers" />
-  </a>
-  <a href="https://github.com/6vr?tab=stars">
-    <img src="https://img.shields.io/github/stars/6vr?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=00FFAA&labelColor=0A0A0A" alt="Stars" />
-  </a>
-</p>
-
-
-
----
-
-✨ **Tip:** You are more than your code. Keep hacking, keep learning.  
+✨ **Tip:** Great things take time — keep hacking, keep building.  
